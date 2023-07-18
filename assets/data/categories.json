@@ -1,0 +1,65 @@
+[
+  {
+    "_id": {
+      "$oid": "100"
+    },
+    "name": "Food",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "101"
+    },
+    "name": "Financial Services",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "102"
+    },
+    "name": "Beauty",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "103"
+    },
+    "name": "Fashion",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "104"
+    },
+    "name": "Entertainment",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "105"
+    },
+    "name": "Fitness",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "106"
+    },
+    "name": "Travel",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "107"
+    },
+    "name": "Tech",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "108"
+    },
+    "name": "Real Estate",
+    "__v": 0
+  }
+]
